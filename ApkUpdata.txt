@@ -1,2 +1,2 @@
 //版本号(最新) 下载地址  是否需要强制更新(true or false)
-1-https://smallpea.github.io/ModPVZ2CNsmalltool4/index.htm~true
+1-https://smallpea.github.io/ModPVZ2CNsmalltool4/index.htm~false
